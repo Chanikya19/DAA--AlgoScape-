@@ -1,0 +1,17 @@
+title: AlgoScape
+description: Interactive Divide and Conquer Algorithm Visualization Platform
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-feed
+
+collections:
+  docs:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
